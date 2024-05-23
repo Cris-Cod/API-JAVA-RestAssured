@@ -1,4 +1,6 @@
 
-z
-java:S6126"2Replace this String concatenation with Text block.(±Û“¥ùÿÿÿÿ8«˜Äù1J$4b0fddfc-aed6-4d4a-b7b5-deb2e695cc67
-m	java:S106#"+Replace this use of System.out by a logger.(Š¢ï8¬˜Äù1J$a4c08a90-bafe-4e20-9123-1c0032c2e2d8
+h
+java:S1192"KDefine a constant instead of duplicating this literal "qaclick123" 3 times.(š¡š8è€šú1
+L	java:S106"+Replace this use of System.out by a logger.(˜Š¿Ûüÿÿÿÿ8ï€šú1
+L	java:S106"+Replace this use of System.out by a logger.(Ğ¥éÃøÿÿÿÿ8ï€šú1
+G	java:S1067"+Replace this use of System.out by a logger.(ÖÜ„•8õ€šú1
