@@ -1,0 +1,9 @@
+
+
+java:S1192"MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(ãÿˆÿ8»×®çû1J$786ffc75-9536-4435-b7fc-49a134b6cad9
+
+java:S1854"<Remove this useless assignment to local variable "response".(ãÿˆÿ8È×®çû1J$064b26cd-ae10-419d-91ed-0e2745b71429
+p
+java:S1481"-Remove this unused "response" local variable.(ãÿˆÿ8Í×®çû1J$7b3f1aa4-924a-4b87-abb6-bd25a30aa112
+u
+java:S6126"2Replace this String concatenation with Text block.(ÒÇ¨8Ğ×®çû1J$826ca9e8-a6b0-407f-a605-2c759fafd6cb
